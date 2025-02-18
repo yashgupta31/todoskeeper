@@ -16,7 +16,7 @@ const App = () => {
         {/* <Route path='/alltask/:id' element={<TaskList />} /> */}
         <Route path='/edit/:id' element={<Edit />} />
       </Routes>
-      
+      {/*  */}
     </div>
   )
 }
